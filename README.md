@@ -295,15 +295,4 @@ Contributions, testing, and community-developed applications are all welcome!
 
 ----------
 
-**Thanks to everyone who has contributed research, testing, and development to make projects like this possible.**
-
-Special thanks to [greenluigi1](https://github.com/greenluigi1) for the original research and firmware decryption work that helped make D2VLauncher possible.# D2VLauncher
-
-**A third-party launcher and application manager for Hyundai, Kia, and Genesis DAudio2 head units.**
-
-D2VLauncher brings the ability to install and manage third-party applications on compatible DAudio2 infotainment systems.
-
-This project builds on the research and work of [greenluigi1](https://github.com/greenluigi1), including his [HyundaiFirmwareDecrypter](https://github.com/greenluigi1/HyundaiFirmwareDecrypter) repository.
-
-
 Special thanks to [greenluigi1](https://github.com/greenluigi1) for the original research and firmware decryption work that helped make D2VLauncher possible.
