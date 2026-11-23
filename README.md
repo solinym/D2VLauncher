@@ -256,9 +256,7 @@ Your DAudio2 system should now have D2VLauncher installed.
 
 ### Launching D2VLauncher
 
-The launcher can currently be accessed by opening the **Voice Memos** application on the head unit.
-
-This launch method is temporary and may change in future releases. Not every vehicle configuration includes the Voice Memos application.
+The app launcher replaces your head unit's main home screen. You can get back to the OEM home screen by using the button in the launcher.
 
 ### Installing Applications
 
