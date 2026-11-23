@@ -119,10 +119,6 @@ Replace `YOUR_FIRMWARE_FILENAME.zip` with the actual name of your firmware packa
 
 #### Command arguments
 
-Argument
-
-Description
-
 `-a`
 
 Extracts and decrypts the firmware, calculates hashes, recompresses the package, and installs an ADB backdoor for remote root access over Wi-Fi.
