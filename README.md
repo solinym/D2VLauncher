@@ -192,21 +192,11 @@ Setting the vehicle's date to **January 1, 2023** may allow you to use the follo
 
 On my vehicle, the codes are:
 
-Mode
+Engineering Mode: `26031236`
 
-Code
+Variant Coding: `23060663`
 
-Engineering Mode
-
-`26031236`
-
-Variant Coding
-
-`23060663`
-
-Forced Update
-
-`3600`
+Forced Update: `3600`
 
 These codes are specific to my vehicle/software configuration and should not be assumed to work on every system.
 
